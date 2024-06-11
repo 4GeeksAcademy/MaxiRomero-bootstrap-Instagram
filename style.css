@@ -1,0 +1,33 @@
+.img-thumbnail {
+    width: 400px;
+    height: 300px;
+}
+
+.columnaUnica1 {
+    width: 500px;
+    height: 600px;
+    margin-right: 110px;
+    
+}
+
+.columnaUnica2 {
+    width: 500px;
+    height: 600px;
+    margin-right: 60px;
+}
+
+.columnaUnica3 {
+    width: 500px;
+    height: 800px;
+}
+
+.col-7 {
+    margin-right: 0px;
+}
+.col-7croacia {
+    margin-left: 30px;
+}
+
+.col-7ronaldo {
+    margin-left: -40px;
+}
